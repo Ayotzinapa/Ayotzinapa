@@ -10,8 +10,9 @@
 ![C#](https://img.shields.io/badge/language-C%23-purple?logo=csharp&logoColor=white)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayotzinapa&show_icons=true&theme=radical)
 ## widgets.
-![Badge](https://img.shields.io/badge/progress-85%25-green)
+![Badge](https://img.shields.io/badge/progress-15%25-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayotzinapa&layout=compact&theme=radical)
+
 
 
 
