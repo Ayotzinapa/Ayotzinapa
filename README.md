@@ -2,8 +2,7 @@
 
 ``` diff 
 +  discord.gg/TUzTGVq2RS
--  what executor i use: N/A
-+  what scripts i use: anything cool
+-  what I use: Visual Studio 2022
 ```
 ## Some stats.
 ![C++](https://img.shields.io/badge/language-C++-blue?logo=c%2B%2B&logoColor=white)
