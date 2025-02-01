@@ -20,9 +20,9 @@
 
 | Project                | Description                         
 |------------------------|-----------------------------------------|
-| **XSS Configurator**   | Router configurator project             |
+| **XSS**   | Router configurator project             |
 | **Structs**       | Memory Manipulation Classes                  |
-| **Script-Ware V3 ( revamp, not the real one)** | Exploit IDE Tool|
+| **Warzone** | Tool |
 
 ## 🔧 Tools & Technologies
 
