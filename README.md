@@ -1,8 +1,8 @@
 # About me
 
 ``` diff 
-+  discord.gg/TUzTGVq2RS
--  what I use: Visual Studio 2022
+-  discord.gg/TUzTGVq2RS
++  what I use: Visual Studio 2022
 ```
 ## Some stats.
 ![C++](https://img.shields.io/badge/language-C++-blue?logo=c%2B%2B&logoColor=white)
