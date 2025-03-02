@@ -1,7 +1,7 @@
 # About me
 
 ``` diff 
--  discord.gg/TUzTGVq2RS
+
 +  what I use: Visual Studio 2022
 ```
 ## Some stats.
