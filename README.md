@@ -21,8 +21,8 @@
 | Project                | Description                         
 |------------------------|-----------------------------------------|
 | **XSS**   | Router configurator project             |
-| **Structs**       | Memory Manipulation Classes                  |
-| **Warzone** | Tool |
+| **Structs**       | Memory Manipulation Classes which are bad.                 |
+| **nothing** | just nothing |
 
 ## 🔧 Tools & Technologies
 
