@@ -33,8 +33,8 @@
 - 👋 Hi, I’m Ayotzinapa Miyazaki!
 - I might own some things
 
-- [x] Completed initial router XSS project
-- [x] Build fully dynamic config UI for WPF
+- [x] Completed initial router XSS project ( router moment )
+- [x] Build fully dynamic config UI for WPF ( best ui designer trust )
 
 <!---
 Ayotzinapa/Ayotzinapa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
