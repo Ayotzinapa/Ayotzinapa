@@ -19,25 +19,12 @@
 
 
 
-## 🚀 Current Projects
 
-| Project                | Description                         
-|------------------------|-----------------------------------------|
-| **XSS**   | Router configurator project             |
-| **Structs**       | Memory Manipulation Classes which are bad.                 |
-| **nothing** | just nothing |
-
-## 🔧 Tools & Technologies
-
-- **Languages:** C++, C#
-- **Frameworks:** WPF, Dear ImGui
-- **Utilities:** Memory Manipulation, WebSocket api's, Visual Studio Tools.
 
 - 👋 Hi, I’m Ayotzinapa Miyazaki!
 - I might own some things
 
-- [x] Completed initial router XSS project ( router moment )
-- [x] Build fully dynamic config UI for WPF ( best ui designer trust )
+- [x] Antarctican
 
 <!---
 Ayotzinapa/Ayotzinapa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
