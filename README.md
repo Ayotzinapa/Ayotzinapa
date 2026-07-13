@@ -17,7 +17,7 @@
 
 
 
-👋 Hi, I’m Ayotzinapa Miyazaki!
+👋 Hi, I’m John!
 I might own some things
 
 - [x] Romanian
