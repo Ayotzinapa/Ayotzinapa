@@ -21,8 +21,8 @@
 
 
 
- 👋 Hi, I’m Ayotzinapa Miyazaki!
- I might own some things
+👋 Hi, I’m Ayotzinapa Miyazaki!
+I might own some things
 
 - [x] Romanian
 
