@@ -1,7 +1,7 @@
 # About me
 
 ```  
-  I use Sublime Text.
+  I use VSCode, VS2022 and Sublime Text.
 ```
 ## Some stats.
 
@@ -21,8 +21,8 @@
 
 
 
-- 👋 Hi, I’m Ayotzinapa Miyazaki!
-- I might own some things
+ 👋 Hi, I’m Ayotzinapa Miyazaki!
+ I might own some things
 
 - [x] Romanian
 
