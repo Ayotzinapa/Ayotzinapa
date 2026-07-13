@@ -17,6 +17,7 @@
 ![PS](https://img.shields.io/badge/An%20individual-8A2BE2)
 ![C#](https://img.shields.io/badge/language-C%23-purple?logo=csharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/language-HTML-orange?logo=html&logoColor=white)
+![HTML](https://img.shields.io/badge/language-ASM-red?logo=html&logoColor=white)
 
 
 
