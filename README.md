@@ -4,7 +4,7 @@
   I use VSCode, VS2022 and Sublime Text.
 ```
 ## Some stats.
-
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Ayotzinapa&layout=compact&theme=radical)
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Ayotzinapa&show_icons=true&theme=radical)
 
 
