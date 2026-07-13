@@ -6,7 +6,6 @@
 ## Some stats.
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Ayotzinapa&show_icons=true&theme=radical)
-## widgets.
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Ayotzinapa&layout=compact&theme=radical)
 
