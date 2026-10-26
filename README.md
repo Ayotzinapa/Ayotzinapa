@@ -1,8 +1,7 @@
-# About me
+# <a href="https://emoji.gg/emoji/350293-ragecomicthink"><img src="https://cdn3.emoji.gg/emojis/350293-ragecomicthink.png" width="40" height="40" alt="ragecomicthink"></a> About me 
 
-```  
-  I use VSCode, VS2022 and Sublime Text.
-```
+<a href="https://emoji.gg/emoji/8627_notSeething"><img src="https://cdn3.emoji.gg/emojis/8627_notSeething.png" width="40px" height="40px" alt="notSeething"></a>  I use VSCode, VS2022 and Sublime Text.
+
 ## Some stats.
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Ayotzinapa&layout=compact&theme=radical)
 
